@@ -1,3 +1,3 @@
 # 10fest
 
-This is a test repostiory
+10 Fest is a unique project for PRs. 
